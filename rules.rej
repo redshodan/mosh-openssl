@@ -1,0 +1,11 @@
+--- rules
++++ rules
+@@ -10,7 +10,7 @@ case $ARCH_NAME in
+     MACHINE=x86
+     ;;
+   arm)
+-    MACHINE=armv7l
++    MACHINE=armv5
+     ;;
+   mips)
+     MACHINE=mips
